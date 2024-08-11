@@ -1,0 +1,29 @@
+{
+  "redirects": [
+    {
+      "source": "/insta",
+      "destination": "https://instagram.com/daocommunity_",
+      "permanent": true
+    },
+    {
+      "source": "/twitter",
+      "destination": "https://twitter.com/daocommunity_",
+      "permanent": true
+    },
+    {
+      "source": "/whatsapp",
+      "destination": "https://whatsapp.com",
+      "permanent": true
+    },
+    {
+      "source": "/luma",
+      "destination": "https://lu.ma/user/daocommunity",
+      "permanent": true
+    },
+    {
+      "source": "/youtube",
+      "destination": "https://www.youtube.com/@daocommunity",
+      "permanent": true
+    }
+  ]
+}
