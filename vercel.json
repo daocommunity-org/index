@@ -24,6 +24,16 @@
       "source": "/youtube",
       "destination": "https://www.youtube.com/@daocommunity",
       "permanent": true
+    },
+    {
+      "source": "/apply",
+      "destination": "https://dao-community.notion.site/DAO-Community-bbe8eea63a184726aac152d72dd1cdac",
+      "permanent": true
+    },
+    {
+      "source": "/enroll",
+      "destination": "https://enrollment.daocommunity.org/",
+      "permanent": true
     }
   ]
 }
